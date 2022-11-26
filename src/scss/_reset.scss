@@ -105,3 +105,10 @@ input {
     -webkit-appearance: none;
     border-radius: 0;
 }
+
+a,
+a:link,
+a:focus,
+a:visited {
+    text-decoration: none;
+}
